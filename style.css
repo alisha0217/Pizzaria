@@ -1,0 +1,77 @@
+body{
+    background-color:rgb(39, 39, 39);
+}
+
+html{
+    text-align: center;
+    scroll-behavior: smooth;
+}
+
+.links {
+        display:inline;
+        color:#000157; 
+        padding: 5px 9px 5px 9px;
+        font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        font-size: 20px;
+    }
+    
+    
+.links:hover {
+        background-color: cornflowerblue;
+    }
+
+
+#view_menu {
+        position: center;
+        overflow: hidden;
+        height: 600px;
+        width: 98%;
+        color:mintcream;
+        margin:10px;
+        background-image: url(istockphoto-1139597690-170667a.jpg);
+        background-position: center;
+        background-size:cover;
+        display: table;
+}
+
+
+#img_view_menu{
+        width:100%;
+        height:600px;
+}
+
+#show_menu_btn{
+    background-color:palegoldenrod;
+}
+
+#add_menu{
+    position: center;
+    overflow: hidden;
+    height: 600px;
+    width: 98%;
+    color:mintcream;
+    margin:10px;
+    background-image: url(vegbjmshlnattjocr1lr5prylnrjfarcgmbre48i3x82bq19hngkgwserpzaiiqy-.jpg);
+    background-position: center;
+    background-size:cover;
+    display: table;
+}
+
+#Reccomend{
+    background-color: tomato;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color:lightgoldenrodyellow;
+    width: 100px;
+    height: 100px;
+}
+
+#text_input{
+   background-color: rgba(255, 255, 255, 0.582);
+   border-style: hidden;
+   border-color:mintcream;
+}
+
+.pizza_icon{
+    width:100px;
+    height: 100px;
+}
